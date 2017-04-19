@@ -1,4 +1,7 @@
-# test coverage for  [ember-calendar (v0.3.9)](https://github.com/alphasights/ember-calendar#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-calendar.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-calendar)
+# npmtest-ember-calendar
+
+#### basic test coverage for  [ember-calendar (v0.3.9)](https://github.com/alphasights/ember-calendar#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-calendar.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-calendar)
+
 #### An awesome Ember calendar
 
 [![NPM](https://nodei.co/npm/ember-calendar.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-calendar)
